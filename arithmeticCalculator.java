@@ -14,7 +14,7 @@ public class arithmeticCalculator {
 		num2=sc.nextInt();
 		System.out.println("MAIN MENU");
 		System.out.println("1. Addition(+)");
-		System.out.println("2. Substraction(-)");
+		System.out.println("2. Subtraction(-)");
 		System.out.println("3. Multiplication(*)");
 		System.out.println("4. Division(/)");
 		System.out.println("Enter Your Option(1-4): ");
